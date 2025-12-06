@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Al Mounzer</h1>
+<h1 align="left">Hi 👋, I'm Mounzer</h1>
 <h3 align="left">Full Stack Developer · UI/UX Enthusiast · IT Specialist</h3>
 
 ## 🚀 About Me
