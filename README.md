@@ -70,13 +70,18 @@ A public website built during a freelance/agency project.
 
 ---
 
-### 🔹 **Open-Source / Demo Projects (Coming Soon)**  
-Preparing:
-- ✔ A Laravel + Vue boilerplate  
-- ✔ A public mini-version of the internal seminar system  
-- ✔ UI/UX component showcase  
+### 🔹 **Open-Source, Cloud & Automation Projects (Coming Soon)**  
+I’m currently expanding my skills in cloud technologies and automation.  
+Here are the projects I’m actively preparing:
 
-Stay tuned 👀
+- ✔ **Laravel + Vue boilerplate** (clean architecture + starter kit)  
+- ✔ **Mini public version of the internal seminar management system**  
+- ✔ **UI/UX component showcase** (modals, onboarding tours, layouts)  
+- ☁️ **Azure learning projects** (storage, functions, identity flows)  
+- 🔄 **Automation workflows using n8n** (integrations, triggers, process automation)  
+
+More updates coming soon 👀
+
 
 ---
 
