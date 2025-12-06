@@ -1,84 +1,81 @@
-<h1 align="center">Hi 👋, I'm Almounzer Zahrawi</h1>
-<h3 align="center">Full Stack Developer · UI/UX Enthusiast · IT Specialist</h3>
-
-<p align="center">
-Full Stack Developer with experience in Laravel, Vue.js, MySQL and modern UI/UX design.  
-I build internal tools, dashboards, booking systems, and business applications.  
-Passionate about clean interfaces, problem-solving, and creating tools that make work easier.
-</p>
-
----
+<h1 align="left">Hi 👋, I'm Al Mounzer</h1>
+<h3 align="left">Full Stack Developer · UI/UX Enthusiast · IT Specialist</h3>
 
 ## 🚀 About Me
+<p>
+I’ve been studying and working in computer science since 2009, starting with a strong foundation in networking.  
+In Germany, I expanded my skills into software development and completed my **Bachelor’s degree in Information Technology (B.Sc.)**.
 
-- 💼 Full Stack Developer at **M.O.E**, building internal web applications  
-  *(Seminar management, booking system, reporting dashboards — Laravel + Vue.js)*  
-- 🖌 UI/UX prototyping experience using **Figma, Adobe XD, Canva**  
-- 🌐 Freelance experience (Fiverr):  
-  troubleshooting, UI/UX concepts, small web apps  
-- 🌤 Cloud exposure: AWS · Azure · Google Cloud  
-- 🎨 Strong interest in **clean UI, animations, onboarding experiences, and UX simplicity**  
-- 🖥 Previously built websites such as **https://sonnego.de/**  
+Today, I work as a Full Stack Developer with a broad understanding of the IT world — both software and hardware.  
+My experience includes designing IT setups, communicating with external partners, and participating in cloud-oriented architecture planning.
+
+I build internal tools, dashboards, UI enhancements, and business applications using modern development workflows such as Agile, Kanban, Jira, Trello, and Atlassian tools.
+
+I’m passionate about clean interfaces, problem-solving, and creating tools that make work easier while delivering a smooth and user-friendly UI/UX experience.
+</p>
 
 ---
 
 ## 🧠 What I Do
 
 ### **Full Stack Development**
-- Laravel (API, Auth, Architecture)  
+- Laravel (API, Authentication, Architecture)  
 - Vue.js + Vuetify (SPA, Components)  
-- MySQL (Eloquent, DB optimization)  
-- REST APIs and integrations  
+- MySQL (Eloquent, Optimization)  
+- REST APIs & Integrations  
 - Docker for development environments  
 
 ### **UI/UX**
-- Prototyping: Figma & Adobe XD  
-- User flows, onboarding modals, step-by-step tours  
-- Responsive layouts, accessibility, design systems  
+- Prototyping: **Figma** (primary), Adobe XD (legacy/previous experience)  
+- User flows, onboarding experiences, step-by-step tours  
+- Responsive layouts & accessibility  
+- Creating component-based design systems  
 
 ### **IT Systems**
 - Windows & Linux administration  
-- Networking basics  
-- 1st–3rd level support background  
-- Cloud basics (AWS, Azure)  
+- Networking fundamentals  
+- 1st–3rd level support experience  
+- Cloud exposure: AWS · Azure  
 
 ---
 
-## 📌 Highlighted Projects (Public & Private)
+## 📌 Last Highlighted Projects (Public & Private)
 
-### 🔹 **Internal Seminar Management System (Private — M.O.E)**  
-A large internal system to manage:
-- seminars, instructors, attendance  
-- feedback, documents, user dashboards  
-- onboarding tours & UX enhancements  
+### 🔹 **Internal Seminar Management System (Private — M.O.E)**
+A complete internal platform to manage:
+- seminars & instructor assignments  
+- attendance & feedback  
+- document management  
+- dashboards and user onboarding tours  
 
 **Tech:** Laravel · Vue.js · Vuetify · MySQL  
 
-🚫 Code private — ✔ Architecture explanations possible on request.
+🚫 Code private — ✔ Architecture explanations available on request.
 
 ---
 
 ### 🔹 **SonneGo Website (Public)**
-Live website created during a freelance/agency role.  
-**URL:** https://sonnego.de/
+A public website built during a freelance/agency project.  
+**URL:** https://sonnego.de/  
 
-**Tech:** HTML · CSS · JavaScript · Hosting · SEO basics
+**Tech:** HTML · CSS · JavaScript · Hosting · SEO
 
 ---
 
-### 🔹 **UI/UX Prototypes (Freelance Work)**  
-- Mobile app screens (Figma)  
+### 🔹 **UI/UX Prototypes (Freelance Work)**
+- Mobile app screens and flows (Figma)  
 - Landing page concepts  
 - Dashboard layouts  
-*(Screenshots available on request)*
+*(Screenshots can be shared upon request)*
 
 ---
 
 ### 🔹 **Open-Source / Demo Projects (Coming Soon)**  
-I’m preparing:
+Preparing:
 - ✔ A Laravel + Vue boilerplate  
-- ✔ A public mini-version of my internal seminar management system  
-- ✔ UI/UX showcase components  
+- ✔ A public mini-version of the internal seminar system  
+- ✔ UI/UX component showcase  
+
 Stay tuned 👀
 
 ---
@@ -95,23 +92,30 @@ Laravel · REST APIs · MySQL · Authentication · Queues
 Vue.js · Vuetify · HTML · CSS/SCSS · Tailwind · Responsive Design
 
 **UX/UI:**  
-Figma · Adobe XD · Canva · Photoshop
+Figma · Adobe XD (legacy) · Canva · Photoshop
 
 **Cloud & Systems:**  
-AWS · Azure · GCP · Linux · Windows Server · Networking
+AWS · Azure · Google Cloud · Linux · Windows Server · Networking
 
 **Tools:**  
 Git · Docker · Postman · MS 365
 
 ---
 
+## 🎓 Education
+- **Bachelor of Science (B.Sc.) — Information Technology**  
+  FH Kiel, Germany (2019–2025)  
+  Focus: Software Development, Cloud Computing, Team-based projects
+
+---
+
 ## 🌍 Experience Overview
 
-- 🟢 **Full Stack Developer – M.O.E (2025–Today)**  
+- 🟢 **Full Stack Developer – M.O.E (2025–Present)**  
 - 🟡 **Reporting & Internal Tools – M.O.E (2023–2024)**  
 - 🔵 **Freelance UI/UX & Troubleshooting – Fiverr**  
 - 🔵 **Web Developer – SonneGo (2023)**  
-- 🛠 IT support background across several roles  
+- 🛠 **IT Support roles** (1st–3rd Level)
 
 ---
 
