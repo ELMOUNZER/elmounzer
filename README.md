@@ -1,72 +1,126 @@
 <h1 align="center">Hi 👋, I'm Almounzer Zahrawi</h1>
-<h3 align="center">Full Stack Developer · PHP · Laravel · Vue.js · MySQL</h3>
+<h3 align="center">Full Stack Developer · UI/UX Enthusiast · IT Specialist</h3>
 
 <p align="center">
-A self-taught developer who loves building internal tools and automation systems.
-Currently working as a Full-Time Full-Stack Developer at M.O.E (Germany).
+Full Stack Developer with experience in Laravel, Vue.js, MySQL and modern UI/UX design.  
+I build internal tools, dashboards, booking systems, and business applications.  
+Passionate about clean interfaces, problem-solving, and creating tools that make work easier.
 </p>
 
 ---
 
-### 🔭 What I'm working on
-- Internal seminar & training management system (Laravel + Vue.js)
-- Reporting dashboards for HR & management
-- Automation tools for internal workflows
-- Improving UI/UX of internal platforms (Vuetify, SCSS)
+## 🚀 About Me
 
-### 🌱 What I'm learning now
-- Advanced Laravel clean architecture  
-- Vue 3 Composition API  
-- Docker for local dev environments  
-- Azure basics for deployment & identity management  
-
-### 🤝 I’m open to collaborate on
-- Laravel packages  
-- Vue.js components  
-- Internal tools and automation scripts  
-
-### ⚡ Fun fact  
-I love coffee, good UI, and fixing bugs at 2 AM that disappear in the morning 😄
+- 💼 Full Stack Developer at **M.O.E**, building internal web applications  
+  *(Seminar management, booking system, reporting dashboards — Laravel + Vue.js)*  
+- 🖌 UI/UX prototyping experience using **Figma, Adobe XD, Canva**  
+- 🌐 Freelance experience (Fiverr):  
+  troubleshooting, UI/UX concepts, small web apps  
+- 🌤 Cloud exposure: AWS · Azure · Google Cloud  
+- 🎨 Strong interest in **clean UI, animations, onboarding experiences, and UX simplicity**  
+- 🖥 Previously built websites such as **https://sonnego.de/**  
 
 ---
 
-## 🛠️ Languages and Tools
+## 🧠 What I Do
+
+### **Full Stack Development**
+- Laravel (API, Auth, Architecture)  
+- Vue.js + Vuetify (SPA, Components)  
+- MySQL (Eloquent, DB optimization)  
+- REST APIs and integrations  
+- Docker for development environments  
+
+### **UI/UX**
+- Prototyping: Figma & Adobe XD  
+- User flows, onboarding modals, step-by-step tours  
+- Responsive layouts, accessibility, design systems  
+
+### **IT Systems**
+- Windows & Linux administration  
+- Networking basics  
+- 1st–3rd level support background  
+- Cloud basics (AWS, Azure)  
+
+---
+
+## 📌 Highlighted Projects (Public & Private)
+
+### 🔹 **Internal Seminar Management System (Private — M.O.E)**  
+A large internal system to manage:
+- seminars, instructors, attendance  
+- feedback, documents, user dashboards  
+- onboarding tours & UX enhancements  
+
+**Tech:** Laravel · Vue.js · Vuetify · MySQL  
+
+🚫 Code private — ✔ Architecture explanations possible on request.
+
+---
+
+### 🔹 **SonneGo Website (Public)**
+Live website created during a freelance/agency role.  
+**URL:** https://sonnego.de/
+
+**Tech:** HTML · CSS · JavaScript · Hosting · SEO basics
+
+---
+
+### 🔹 **UI/UX Prototypes (Freelance Work)**  
+- Mobile app screens (Figma)  
+- Landing page concepts  
+- Dashboard layouts  
+*(Screenshots available on request)*
+
+---
+
+### 🔹 **Open-Source / Demo Projects (Coming Soon)**  
+I’m preparing:
+- ✔ A Laravel + Vue boilerplate  
+- ✔ A public mini-version of my internal seminar management system  
+- ✔ UI/UX showcase components  
+Stay tuned 👀
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+PHP · JavaScript · Java · C · C++ · SQL · Dart (Flutter)
 
 **Backend:**  
-PHP · Laravel · MySQL · REST APIs · Authentication (JWT/Passport)
+Laravel · REST APIs · MySQL · Authentication · Queues
 
 **Frontend:**  
-Vue.js · Vuetify · SCSS · JavaScript · HTML/CSS
+Vue.js · Vuetify · HTML · CSS/SCSS · Tailwind · Responsive Design
 
-**DevOps / Tools:**  
-Git · Docker · Azure · Linux · Postman
+**UX/UI:**  
+Figma · Adobe XD · Canva · Photoshop
 
----
+**Cloud & Systems:**  
+AWS · Azure · GCP · Linux · Windows Server · Networking
 
-## 📌 Featured Projects
-
-### 🔹 Seminar Management System (Private – Company Project)
-A complete web app for managing:
-- seminars, instructors, attendance  
-- feedback & documents  
-- onboarding tours  
-- internal dashboards  
-
-**Stack:** Laravel, Vue 3, Vuetify, MySQL  
-**Note:** Source code private, but architectural explanation available on request.
+**Tools:**  
+Git · Docker · Postman · MS 365
 
 ---
 
-### 🔹 Laravel + Vue Example App  
-A simplified public version demonstrating form validation, CRUD, Vue components.  
-➡️ *(You will upload this shortly — I will help you.)*
+## 🌍 Experience Overview
+
+- 🟢 **Full Stack Developer – M.O.E (2025–Today)**  
+- 🟡 **Reporting & Internal Tools – M.O.E (2023–2024)**  
+- 🔵 **Freelance UI/UX & Troubleshooting – Fiverr**  
+- 🔵 **Web Developer – SonneGo (2023)**  
+- 🛠 IT support background across several roles  
 
 ---
 
-## 📫 Contact
-📩 zezozahrawi@gmail.com  
-🌍 Based in Kiel, Germany  
+## 📬 Contact
+
+📧 almounzer.sy.de@gmail.com  
+🌍 Kiel, Germany  
+🔗 LinkedIn: www.linkedin.com/in/moit90  
 
 ---
 
-⭐️ *Feel free to check my repositories or message me for collaboration!*
+⭐ If you like my work, feel free to explore my repositories or connect!
