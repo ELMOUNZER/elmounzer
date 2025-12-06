@@ -77,6 +77,7 @@ Here are the projects I’m actively preparing:
 - ✔ **Laravel + Vue boilerplate** (clean architecture + starter kit)  
 - ✔ **Mini public version of the internal seminar management system**  
 - ✔ **UI/UX component showcase** (modals, onboarding tours, layouts)  
+-  ✔ **Digital Life Hub** (monthly subs manger)  
 - ☁️ **Azure learning projects** (storage, functions, identity flows)  
 - 🔄 **Automation workflows using n8n** (integrations, triggers, process automation)  
 
