@@ -1,136 +1,238 @@
-<h1 align="left">Hi 👋, I'm Mounzer</h1>
-<h3 align="left">Full Stack Developer · UI/UX Enthusiast · IT Specialist</h3>
 
-## 🚀 About Me
-<p>
-I’ve been studying and working in computer science since 2009, starting with a strong foundation in networking.  
-In Germany, I expanded my skills into software development and completed my **Bachelor’s degree in Information Technology (B.Sc.)**.
+<div align="center">
 
-Today, I work as a Full Stack Developer with a broad understanding of the IT world — both software and hardware.  
-My experience includes designing IT setups, communicating with external partners, and participating in cloud-oriented architecture planning.
+# 👋 Hi, I'm Mounzer
 
-I build internal tools, dashboards, UI enhancements, and business applications using modern development workflows such as Agile, Kanban, Jira, Trello, and Atlassian tools.
+### Software Engineer · Full-Stack Developer · Cloud & IT Systems
 
-I’m passionate about clean interfaces, problem-solving, and creating tools that make work easier while delivering a smooth and user-friendly UI/UX experience.
-</p>
+**B.Sc. Information Technology | Microsoft Certified Azure Administrator**
 
----
+Building reliable software, managing modern IT infrastructure, and exploring cloud technologies, automation, and AI.
 
-## 🧠 What I Do
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://elmounzer.github.io/mounzer-cloud-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moit90/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ELMOUNZER)
 
-### **Full Stack Development**
-- Laravel (API, Authentication, Architecture)  
-- Vue.js + Vuetify (SPA, Components)  
-- MySQL (Eloquent, Optimization)  
-- REST APIs & Integrations  
-- Docker for development environments  
+📍 Essen, Germany
 
-### **UI/UX**
-- Prototyping: **Figma** (primary), Adobe XD (legacy/previous experience)  
-- User flows, onboarding experiences, step-by-step tours  
-- Responsive layouts & accessibility  
-- Creating component-based design systems  
-
-### **IT Systems**
-- Windows & Linux administration  
-- Networking fundamentals  
-- 1st–3rd level support experience  
-- Cloud exposure: AWS · Azure  
+</div>
 
 ---
 
-## 📌 Last Highlighted Projects (Public & Private)
+## 👨‍💻 Professional Profile
 
-### 🔹 **Internal Seminar Management System (Private — M.O.E)**
-A complete internal platform to manage:
-- seminars & instructor assignments  
-- attendance & feedback  
-- document management  
-- dashboards and user onboarding tours  
+I'm an IT professional with a **Bachelor of Science in Information Technology** from FH Kiel, Germany, and a technical background dating back to 2009.
 
-**Tech:** Laravel · Vue.js · Vuetify · MySQL  
+My professional experience combines full-stack software development, technical support, networking, and IT systems.
 
-🚫 Code private — ✔ Architecture explanations available on request.
+I have developed business applications and internal management platforms using **Laravel, Vue.js, Vuetify, and MySQL**, with particular attention to maintainability, usability, and clean interface design.
 
----
+I'm currently expanding my expertise through professional training in **Cloud Systems Administration**, focusing on Microsoft Azure, Microsoft 365, identity management, IT security, and cloud architecture.
 
-### 🔹 **SonneGo Website (Public)**
-A public website built during a freelance/agency project.  
-**URL:** https://sonnego.de/  
-
-**Tech:** HTML · CSS · JavaScript · Hosting · SEO
+My goal is to connect **software engineering and infrastructure engineering** to create practical, secure, and maintainable solutions.
 
 ---
 
-### 🔹 **UI/UX Prototypes (Freelance Work)**
-- Mobile app screens and flows (Figma)  
-- Landing page concepts  
-- Dashboard layouts  
-*(Screenshots can be shared upon request)*
+## 🧩 Core Competencies
+
+| Area | Expertise |
+|:---|:---|
+| 💻 **Software Engineering** | Full-Stack Development, REST APIs, Business Applications |
+| ☁️ **Cloud Administration** | Microsoft Azure, Microsoft 365, Entra ID |
+| 🖥️ **IT Infrastructure** | Windows Server, Linux, Active Directory, Hyper-V |
+| 🔐 **Identity & Security** | IAM, RBAC, Authentication, SSH, TLS/mTLS |
+| 🌐 **Networking** | TCP/IP, DNS, Remote Access, Troubleshooting |
+| 🎨 **UI/UX Engineering** | Figma, Responsive Design, Dashboards, Design Systems |
+| 🤖 **AI & Automation** | Python, OpenVINO, Local LLMs, ESP32, IoT |
 
 ---
 
-### 🔹 **Open-Source, Cloud & Automation Projects (Coming Soon)**  
-I’m currently expanding my skills in cloud technologies and automation.  
-Here are the projects I’m actively preparing:
+## 🏅 Certifications & Professional Development
 
-- ✔ **Laravel + Vue boilerplate** (clean architecture + starter kit)  
-- ✔ **Mini public version of the internal seminar management system**  
-- ✔ **UI/UX component showcase** (modals, onboarding tours, layouts)  
--  ✔ **Digital Life Hub** (monthly subs manger)  
-- ☁️ **Azure learning projects** (storage, functions, identity flows)  
-- 🔄 **Automation workflows using n8n** (integrations, triggers, process automation)  
+### Microsoft Certifications
 
-More updates coming soon 👀
+| Certification / Exam | Status | Date |
+|:---|:---:|:---|
+| **AZ-104** — Azure Administrator Associate | ✅ Certified | Sep 2026 |
+| **MS-102** — Microsoft 365 Administrator | ✅ Exam Passed | Oct 2026 |
+| **SC-300** — Identity and Access Administrator | 📅 Scheduled | 25 Nov 2026 |
+| **AZ-305** — Azure Solutions Architect | 📖 Planned | — |
 
+### Additional Professional Training
+
+| Program | Status |
+|:---|:---|
+| **CompTIA Security+** | Training begins December 2026 |
+| **ITIL Foundation 5** | Planned |
+| **Cloud Systems Administration** | In progress — 2026/2027 |
+
+> **Certification note:** MS-102 has been passed. The Microsoft 365 Administrator Expert certification additionally requires an eligible prerequisite certification.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-**Languages:**  
-PHP · JavaScript · Java · C · C++ · SQL · Dart (Flutter)
+### Software Development
 
-**Backend:**  
-Laravel · REST APIs · MySQL · Authentication · Queues
+| Category | Technologies |
+|:---|:---|
+| **Languages** | PHP · JavaScript · Python · Java · C · C++ · SQL · Dart |
+| **Backend** | Laravel · REST APIs · Authentication · MySQL |
+| **Frontend** | Vue.js · Vuetify · HTML5 · CSS3 · SCSS · Tailwind |
+| **Development Tools** | Git · GitHub · Docker · Postman · VS Code |
+| **Workflows** | Agile · Kanban · Jira · Trello |
 
-**Frontend:**  
-Vue.js · Vuetify · HTML · CSS/SCSS · Tailwind · Responsive Design
+### Cloud, Systems & Infrastructure
 
-**UX/UI:**  
-Figma · Adobe XD (legacy) · Canva · Photoshop
+| Category | Technologies |
+|:---|:---|
+| **Cloud Platforms** | Microsoft Azure · Microsoft 365 · AWS |
+| **Identity** | Microsoft Entra ID · Active Directory · RBAC |
+| **Operating Systems** | Windows Server · Windows · Linux |
+| **Virtualization** | Hyper-V · Azure Virtual Machines |
+| **Networking** | DNS · TCP/IP · SSH · RDP · VPN Concepts |
+| **Security** | IAM · TLS/mTLS · Access Control · Secure Remote Access |
 
-**Cloud & Systems:**  
-AWS · Azure · Google Cloud · Linux · Windows Server · Networking
+### Design, AI & Automation
 
-**Tools:**  
-Git · Docker · Postman · MS 365
+| Category | Technologies |
+|:---|:---|
+| **UI/UX Design** | Figma · Adobe XD · Canva · Photoshop |
+| **AI & Machine Learning** | OpenVINO · Local LLMs · Intel CPU/GPU/NPU |
+| **Automation** | Python · PowerShell · Scripting |
+| **IoT** | ESP32 · Network Monitoring · Remote Management |
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Seminar Management Platform — M.O.E.
+
+**Professional Experience · Private Company Project**
+
+Developed and enhanced an internal seminar administration platform.
+
+**Key Features**
+- Seminar scheduling and instructor assignments
+- Attendance tracking and participant feedback
+- Document management and internal dashboards
+- Guided onboarding and user experience improvements
+- Frontend and backend integrations
+
+**Tech Stack:** `Laravel` `Vue.js` `Vuetify` `MySQL`
+
+🔒 Proprietary source code. Technical details and architecture available for discussion.
+
+---
+
+### 🖥️ TECHMICH — WakeMyServer
+
+**Personal Infrastructure & Automation Project**
+
+A remote system management solution combining a web dashboard, secure connectivity, and IoT hardware.
+
+**Highlights**
+- ESP32-based Wake-on-LAN integration
+- Secure HTTPS and mutual TLS authentication
+- SSH tunneling and Remote Desktop connectivity
+- Network monitoring and device status
+- Remote power management workflows
+- Dashboard development and troubleshooting
+
+**Tech Stack:** `Python` `ESP32` `SSH` `RDP` `Windows` `Networking`
+
+---
+
+### 🤖 Local AI Workstation
+
+**AI Engineering · Personal Project**
+
+A local AI experimentation environment developed with Intel hardware and OpenVINO.
+
+**Highlights**
+- Local language model inference
+- CPU, GPU, and NPU execution
+- Streaming chat interface
+- Model and device management
+- Performance benchmarking and optimization
+
+**Tech Stack:** `Python` `OpenVINO` `Intel AI` `Local LLMs`
+
+---
+
+### 🌐 SonneGo Website
+
+**Web Development Project**
+
+Website implementation with a focus on responsive design, usability, and web presentation.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `SEO`
+
+🔗 [Visit SonneGo](https://sonnego.de/)
+
+---
+
+### 🎨 UI/UX & Freelance Projects
+
+- Interactive web and mobile prototypes
+- Landing pages and responsive interfaces
+- Dashboard and business application design
+- User flows, onboarding, and component systems
+
+**Tools:** `Figma` `Adobe XD` `Canva`
 
 ---
 
 ## 🎓 Education
-- **Bachelor of Science (B.Sc.) — Information Technology**  
-  FH Kiel, Germany (2019–2025)  
-  Focus: Software Development, Cloud Computing, Team-based projects
+
+| Qualification | Institution / Period |
+|:---|:---|
+| 🎓 **B.Sc. Information Technology** | FH Kiel, Germany · 2019–2025 |
+| ☁️ **Cloud Systems Administration** | Advanced Professional Training · 2026–2027 |
 
 ---
 
-## 🌍 Experience Overview
+## 💼 Professional Experience
 
-- 🟢 **Full Stack Developer – M.O.E (2025–Present)**  
-- 🟡 **Reporting & Internal Tools – M.O.E (2023–2024)**  
-- 🔵 **Freelance UI/UX & Troubleshooting – Fiverr**  
-- 🔵 **Web Developer – SonneGo (2023)**  
-- 🛠 **IT Support roles** (1st–3rd Level)
+- **Full-Stack Development — M.O.E.**  
+  Business applications, Laravel/Vue.js development, internal platforms
 
----
+- **Internal Tools & Reporting — M.O.E.**  
+  Dashboard improvements, reporting, and technical workflows
 
-## 📬 Contact
+- **Freelance Web Development & UI/UX**  
+  Website design, prototypes, and frontend implementation
 
-📧 almounzer.sy.de@gmail.com  
-🌍 Kiel, Germany  
-🔗 LinkedIn: www.linkedin.com/in/moit90  
+- **IT Systems & Technical Support**  
+  Networking, troubleshooting, hardware, and user support
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories or connect!
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ELMOUNZER&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ELMOUNZER&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+**Open to opportunities in Software Engineering, Cloud Administration & IT Infrastructure.**
+
+📧 [Email](mailto:almounzer.sy.de@gmail.com) ·
+💼 [LinkedIn](https://www.linkedin.com/in/moit90/) ·
+🌐 [Portfolio](https://elmounzer.github.io/mounzer-cloud-portfolio/) ·
+💻 [GitHub](https://github.com/ELMOUNZER)
+
+---
+
+*Engineering reliable systems. Developing useful software. Learning continuously.*
+
+</div>
