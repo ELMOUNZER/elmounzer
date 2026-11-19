@@ -9,7 +9,7 @@
 
 Building reliable software, managing modern IT infrastructure, and exploring cloud technologies, automation, and AI.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://elmounzer.github.io/mounzer-cloud-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://elmounzer.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moit90/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ELMOUNZER)
 
@@ -228,7 +228,7 @@ Website implementation with a focus on responsive design, usability, and web pre
 
 📧 [Email](mailto:almounzer.sy.de@gmail.com) ·
 💼 [LinkedIn](https://www.linkedin.com/in/moit90/) ·
-🌐 [Portfolio](https://elmounzer.github.io/mounzer-cloud-portfolio/) ·
+🌐 [Portfolio](https://elmounzer.github.io/) ·
 💻 [GitHub](https://github.com/ELMOUNZER)
 
 ---
